@@ -1,0 +1,8 @@
+raw/
+*.duckdb
+*.duckdb.wal
+dataset.json
+scraper.json
+dead.json
+.venv/
+__pycache__/
